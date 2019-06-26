@@ -1,2 +1,0 @@
-# practiceAutomation
-Practice Automation files
